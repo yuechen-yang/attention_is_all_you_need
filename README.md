@@ -43,12 +43,13 @@ Why they use mask?
 ## Resource links
 
 1. Original Article: https://arxiv.org/abs/1706.03762v5
-2. Code and trained PFNs are released at https://github.com/tensorflow/tensor2tensor
+2. Tensor2Tensor has some code with a tutorial: https://www.tensorflow.org/text/tutorials/transformer
+3. Transformer very intuitively explained: http://jalammar.github.io/illustrated-transformer/
 
 
 ## Code demonstration
 
-The code has not yet been made availalbe.
+The link of the notebook: https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb#scrollTo=8hOLjW7rJKJL
 
 ## Video Recording
 
