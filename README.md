@@ -56,4 +56,4 @@ The link of the notebook: https://colab.research.google.com/github/bentrevett/py
 
 ## Video Recording
 
-Link to video recording.
+Link to video recording: https://drive.google.com/file/d/1td5ZYbuOeuZ8Hta0rR_TuCtCNS9CQTWB/view?usp=sharing
