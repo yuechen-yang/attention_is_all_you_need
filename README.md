@@ -23,15 +23,16 @@ This is the paper presentation repo for "Attention Is All You Need".
 
 ## Discussion Topic 1
 
-Why they use mask?
+Why the Masked Multi-Head Attention need to have “Masked”?
 
 ## Discussion Topic 2
 
 
+Why there is Multi-Head Attention?
 
 ## Discussion Topic 3
 
-
+Why there is attention?
 
 
 ## Critical Analysis
