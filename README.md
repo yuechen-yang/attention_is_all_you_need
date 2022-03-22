@@ -40,7 +40,7 @@ Why there is attention?
 1. The paper poposed a new mdoel architecture and it is only implemented in the translation. 
 2. I think the every part in the transformer could be explained in a more detailed way.
 3. The transformer contains 2 parts in this paper. But they can also be used in a seperate way, which are BERT and GPT.
-
+4. I think the attention mechanism could make the deep learning model more explainable.
 
 
 ## Resource links
